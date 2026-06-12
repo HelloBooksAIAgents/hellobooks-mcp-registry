@@ -1,0 +1,18 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "io.github.hellobooksaiagents/hellobooks-mcp",
+    "title": "HelloBooks AI Agents MCP Server",
+    "description": "AI agent platform for bookkeeping, bank reconciliation, and month-end financial close for SMBs. Exposes plan pricing, integrations, compliance frameworks, competitor data, and statutory deadlines.",
+    "version": "0.7.0",
+    "repository": {
+          "url": "https://github.com/Meru-Fin-Tech/HelloBooks-MCP-Public",
+          "source": "github"
+    },
+    "websiteUrl": "https://agents.hellobooks.ai",
+    "remotes": [
+          {
+                  "type": "streamable-http",
+                  "url": "https://agents.hellobooks.ai/mcp"
+          }
+    ]
+}
