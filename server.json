@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.hellobooksaiagents/hellobooks-mcp",
+  "name": "io.github.HelloBooksAIAgents/hellobooks-mcp",
   "title": "HelloBooks AI Agents MCP Server",
   "description": "AI agents for bookkeeping, reconciliation, and financial close for SMBs.",
   "version": "0.7.0",
